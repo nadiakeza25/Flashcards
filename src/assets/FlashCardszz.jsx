@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Agaseke from "../Agaseke.png"
+import RwandaResorts from '../RwandaResorts.jpg';
 
 export default function Flashcard({ question,answer,Options }) {
   const [flip, setFlip] = useState(false);

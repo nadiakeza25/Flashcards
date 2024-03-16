@@ -10,10 +10,11 @@
 .header{
   display: grid;
   justify-content: center;
+  
 }
 
 body {
-  background-image: url(Agaseke.png);
+  background-image: url(RwandaResorts.jpg);
   background-size: cover;
   width: 100%;
 }
